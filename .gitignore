@@ -1,0 +1,10 @@
+# 编译产物
+build/
+*.app/
+
+# 视频素材（第三方版权，不随代码公开；请自备后放入 assets/）
+assets/*.mp4
+
+# 系统 / 临时
+.DS_Store
+*.log
